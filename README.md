@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Name:** Varun Kumar
+- **Name:** NAVADEEP
 - **Section:** CSE FSD 2B
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 01
